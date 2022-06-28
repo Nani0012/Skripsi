@@ -1,3 +1,3 @@
-["early_blight,
+["early_blight",
 "sehat",
 "penyakit_lainnya"]
